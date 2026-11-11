@@ -11,5 +11,9 @@
 | 名前 | おすすめ |
 | --- | --- |
 | example-yamada | 21F のカレー |
+<<<<<<< HEAD
 
 投票の締切は毎月 25 日です。
+=======
+| example-suzuki | 向かいのラーメン |
+>>>>>>> origin/main
