@@ -11,3 +11,4 @@
 | 名前 | おすすめ |
 | --- | --- |
 | example-yamada | 21F のカレー |
+| example-suzuki | 向かいのラーメン |
